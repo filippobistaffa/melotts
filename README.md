@@ -30,12 +30,6 @@ Some other features include:
 
 The Python API and model cards can be found in [this repo](https://github.com/myshell-ai/MeloTTS/blob/main/docs/install.md#python-api) or on [HuggingFace](https://huggingface.co/myshell-ai).
 
-## Join the Community
-
-**Discord**
-
-Join our [Discord community](https://discord.gg/myshell) and select the `Developer` role upon joining to gain exclusive access to our developer-only channel! Don't miss out on valuable discussions and collaboration opportunities.
-
 **Contributing**
 
 If you find this work useful, please consider contributing to this repo.
@@ -46,7 +40,7 @@ If you find this work useful, please consider contributing to this repo.
 
 - [Wenliang Zhao](https://wl-zhao.github.io) at Tsinghua University
 - [Xumin Yu](https://yuxumin.github.io) at Tsinghua University
-- [Zengyi Qin](https://www.qinzy.tech) at MIT and MyShell
+- [Zengyi Qin](https://www.qinzy.tech) (project lead) at MIT and MyShell
 
 **Citation**
 ```
